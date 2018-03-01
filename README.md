@@ -11,4 +11,4 @@ can view HTML code in browser by hitting ctrl + u
 
 2. Internal CSS
 
- [logo](https://drive.google.com/drive/my-drive)
+ ![alt text](https://drive.google.com/drive/my-drive/css.png)
