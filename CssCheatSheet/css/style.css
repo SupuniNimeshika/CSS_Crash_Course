@@ -27,4 +27,10 @@ body{
     border-bottom: 10px red solid;
     border-top : 10px red solid;
 
+   /* same as above
+    border: 5px red solid;*/
+
+    border-width: 3px;
+    border-bottom-width: 10px;
+    border-top-style: dotted;
 }
