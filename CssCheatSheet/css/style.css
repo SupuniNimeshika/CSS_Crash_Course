@@ -21,6 +21,10 @@ a:hover{
     color: red;
 }
 
+a:active{
+    color: green;
+}
+
 .container{
     width: 80%;
     /*margin add to box each side*/
