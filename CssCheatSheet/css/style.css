@@ -21,4 +21,10 @@ body{
 .box-1{
     background-color: #333;
     color: #fff;
+
+    border-right: 5px red solid;
+    border-left: 5px red solid;
+    border-bottom: 10px red solid;
+    border-top : 10px red solid;
+
 }
