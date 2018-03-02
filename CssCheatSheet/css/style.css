@@ -28,9 +28,11 @@ body{
     border-top : 10px red solid;
 
    /* same as above
-    border: 5px red solid;*/
+    border: 5px red solid;
 
     border-width: 3px;
     border-bottom-width: 10px;
-    border-top-style: dotted;
+    border-top-style: dotted;*/
+
+    padding: 20px;
 }
