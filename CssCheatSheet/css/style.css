@@ -91,3 +91,20 @@ a:active{
     border-bottom: dotted 1px #333;
     list-style-image: url('../images/check.jpg');
 }
+
+.my-form{
+    padding: 20px;
+}
+
+.my-form .form-group{
+    padding-bottom: 15px;
+}
+
+.my-form label{
+    display: block;
+}
+
+.my-form input{
+    padding: 8px;
+    width: 100%;
+}
