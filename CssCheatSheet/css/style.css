@@ -81,6 +81,7 @@ a:active{
 
 .categories ul{
     padding: 0;
+    padding-left: 20px;
     /*list-style: square;*/
     list-style: none;
 }
@@ -88,5 +89,5 @@ a:active{
 .categories li{
     padding-bottom: 6px;
     border-bottom: dotted 1px #333;
-    list-style-image: url('../images/checkmark.jpeg');
+    list-style-image: url('../images/check.jpg');
 }
