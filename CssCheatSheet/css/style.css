@@ -155,6 +155,7 @@ a:active{
     border: 1px solid #000;
     margin-top: 30px;
     position: relative;
+    background-image: url("../images/bgimage.jpg");
 }
 
 .p-box h1{
