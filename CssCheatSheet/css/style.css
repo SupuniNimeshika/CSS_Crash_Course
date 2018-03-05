@@ -190,3 +190,7 @@ a:active{
     background: yellow;
 }
 
+.my-list li:nth-child(even){
+    background: grey;
+}
+
